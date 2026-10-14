@@ -37,6 +37,8 @@ status-website:
       href: https://fredmakerspace.github.io/upptimeFredWebSites/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
+  css: ""#incidents, div[id='incidents'], .incidents-container, main h2:has(+ .incidents-list), .incidents-list { display: none !important; }""
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
