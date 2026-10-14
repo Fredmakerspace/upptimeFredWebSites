@@ -3,14 +3,23 @@ owner: upptime # Fredmakerspace
 repo: upptime # upptimeFredWebSites
 
 sites:
+  - name : University Home Page - Fredonia.edu
+    url: https://www.fredonia.edu
+  - name : myFred 
+    url: https://my.fredonia.edu
+  - name: FredLearn
+    url: https://fredlearn.fredonia.edu/
+  - name: FredMail (outlook mail)
+    url: https://outlook.office.com/mail/
+  
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  # - name: Wikipedia
+  #  url: https://en.wikipedia.org
+  # - name: Hacker News
+  #  url: https://news.ycombinator.com
+  # - name: Secret Site
+  #  url: $SECRET_SITE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
