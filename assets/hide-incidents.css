@@ -1,0 +1,8 @@
+/* Hide the entire Past Incidents section */
+#incidents,
+div[id="incidents"],
+.incidents-container,
+main h2:has(+ .incidents-list),
+.incidents-list {
+  display: none !important;
+}
