@@ -1,0 +1,2 @@
+/* Hide the entire Past Incidents section */
+section:has(> h2.svelte-18y4uo2) { display: none; }
